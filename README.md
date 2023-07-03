@@ -10,28 +10,19 @@
   Welcome to my GitHub profile! I'm Your Name, a passionate developer from Your City, Country.
 </p>
 
-<!-- Skills -->
-## 🔧 Skills
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React, Node.js
-- Database: MySQL, MongoDB
-- Version Control: Git, GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<!-- Projects -->
-## 🚀 Projects
+<!-- Top Languages -->
+## 💻 Top Languages
 
-### Project 1
-
-- Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet varius magna.
-- Technologies: React, Node.js, MongoDB
-- Repository: [Project 1](https://github.com/your-username/project-1)
-
-### Project 2
-
-- Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet varius magna.
-- Technologies: Python, Flask, MySQL
-- Repository: [Project 2](https://github.com/your-username/project-2)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <!-- Connect -->
 ## 📫 Connect with Me
